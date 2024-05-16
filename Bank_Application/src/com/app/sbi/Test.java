@@ -27,6 +27,11 @@ public class Test {
 		System.out.println("You apply for ATM card");
 	}
 
+	public void applyCreditCard()
+	{
+		System.out.println("Apply for credit card");
+	}
+
 	public static void main(String[] args) {
 		
 
