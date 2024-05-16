@@ -12,6 +12,11 @@ public class Test {
 		System.out.println("Withdraw your mony");
 	}
 
+	public void checkBalance()
+	{
+		System.out.println("Check your Balance");
+	}
+
 	public static void main(String[] args) {
 		
 
