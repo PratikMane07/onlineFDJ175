@@ -16,6 +16,11 @@ public class Test {
 	{
 		System.out.println("Check your Balance");
 	}
+	
+	public void applyForAtmCard()
+	{
+		System.out.println("You apply for ATM card");
+	}
 
 	public static void main(String[] args) {
 		
