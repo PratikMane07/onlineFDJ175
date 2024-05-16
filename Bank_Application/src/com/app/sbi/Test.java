@@ -16,6 +16,11 @@ public class Test {
 	{
 		System.out.println("Check your Balance");
 	}
+
+	publi void checkClear()
+	{
+		System.out.println("your check is cleard");
+	}
 	
 	public void applyForAtmCard()
 	{
